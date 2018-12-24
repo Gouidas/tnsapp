@@ -4,7 +4,7 @@ const Landing = () => {
     return (
         <div style= {{ textAlign:'center'}}>
             <h1>
-                Loggin to get the Welcome Email and Change and your passWord
+               tnsApp
             </h1>
         </div>
     );
